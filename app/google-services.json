@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "893455510789",
+    "firebase_url": "https://ridobiko-10b8c.firebaseio.com",
+    "project_id": "ridobiko-10b8c",
+    "storage_bucket": "ridobiko-10b8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893455510789:android:511d38c9cbb79128755b6c",
+        "android_client_info": {
+          "package_name": "com.example.ridobikotask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893455510789-dcpsblbbk7qurkfe27d8s4ddls036uju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVeFkYAQyj9IambYuok3gNS4SLIWk8ZFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893455510789-dcpsblbbk7qurkfe27d8s4ddls036uju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
